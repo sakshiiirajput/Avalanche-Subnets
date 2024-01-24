@@ -1,4 +1,4 @@
-# **ERC20 and Vault Contracts**
+# Avalanche Subnets **ERC20 and Vault Contracts**
 
 This repository contains two Solidity smart contracts: `ERC20` and `Vault`. Below, you'll find a brief description of each contract and its functionality.
 
